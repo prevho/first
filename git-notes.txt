@@ -1,0 +1,55 @@
+Use git bash here in the folder
+
+-- Use UP or DOWN key to show previous commands
+
+--------------------------
+
+cd - cd directory name - cd games
+
+-- change directory or folder
+-- One step back ..desktop
+-- use TAB KEY for auto completion
+
+--------------------------
+
+ls or dir OR dir/p (list per page)
+
+-- list directory
+
+--------------------------
+
+cls - clear - used to clear the interface
+
+
+-----------------------
+
+mkdir - make/create directory or folder
+
+mkdir precious
+
+-----------------------
+
+rm - r - remove or delete directory
+
+rm -r precious
+
+-----------------------
+
+pwd - show or print working direcotry
+
+-- Shows where you are with path 
+
+
+-------------
+
+
+exit - to close git
+------------
+
+
+CONFIGURING GIT
+
+git config --global user.name 'precious'
+git config --global user.email 'precious.iriaevho@gmail.com'
+
+git config --list
